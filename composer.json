@@ -6,6 +6,7 @@
     "require": {
         "php": "^7.2 || ^8.0",
         "ext-openssl": "*",
+        "league/uri": "^6",
         "lcobucci/jwt": "^4.3 || ^5.0",
         "lcobucci/clock": "^2.2 || ^3.0",
         "psr/event-dispatcher": "^1.0",
